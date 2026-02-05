@@ -1,6 +1,6 @@
-# EyeSaver
+# EyeSaver 
 
-**EyeSaver** is a lightweight, high-performance display utility designed to reduce eye strain during prolonged computer usage. 
+**EyeSaver** is a free and opensource, lightweight, high-performance display utility designed to reduce eye strain during prolonged computer usage. 
 
 Built with Python and native Windows APIs (GDI32), it provides real-time control over screen color temperature and brightness without the resource overhead of Electron-based or commercial alternatives.
 

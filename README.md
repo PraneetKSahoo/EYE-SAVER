@@ -19,3 +19,10 @@ https://github.com/PraneetKSahoo/EYE-SAVER/releases/tag/v1.0.0
 
 *   **OS:** Windows 10 / Windows 11
 *   **Architecture:** x64
+  
+## GUI: (Super Simple)
+<img width="442" height="444" alt="gui" src="https://github.com/user-attachments/assets/9e25220a-b887-4b22-b236-94d64fff48b9" />
+
+
+## Closing the window, minimizes it in the system tray
+<img width="383" height="207" alt="image" src="https://github.com/user-attachments/assets/fb1ef645-2122-4b5a-91d9-a72a1aa4ecc6" />

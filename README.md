@@ -12,7 +12,7 @@ Built with Python and native Windows APIs (GDI32), it provides real-time control
 *   **Zero Dependencies:** Standalone portable executable; no installation or admin rights required.
 
 ## Download
-Check RELEASE v1.0.0
+Just downlaod the .exe file and start using: 
 https://github.com/PraneetKSahoo/EYE-SAVER/releases/tag/v1.0.0
 
 ## Compatibility
